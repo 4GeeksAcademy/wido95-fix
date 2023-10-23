@@ -6,11 +6,11 @@
 
 La función `input()` es un ejemplo de:
 
-1. una función definida por el usuario
-2. una función integrada
+1. una función definida por el usuario.
+2. una función integrada.
 
 
-    Respuesta: es una función integrada
+    Respuesta: es una función integrada.
 
 ### Ejercicio 2
 
